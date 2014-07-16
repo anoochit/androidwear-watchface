@@ -9,5 +9,7 @@
     app:rectLayout="@layout/rect_activity_wear"
     app:roundLayout="@layout/round_activity_wear"
     tools:context=".WearActivity"
-    tools:deviceIds="wear">
+    tools:deviceIds="wear"
+    android:background="@drawable/owl"
+    >
 </android.support.wearable.view.WatchViewStub>

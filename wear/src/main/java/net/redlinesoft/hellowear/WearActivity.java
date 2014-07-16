@@ -3,6 +3,7 @@ package net.redlinesoft.hellowear;
 import android.app.Activity;
 import android.os.Bundle;
 import android.support.wearable.view.WatchViewStub;
+import android.util.Log;
 import android.widget.TextView;
 
 import java.text.SimpleDateFormat;
