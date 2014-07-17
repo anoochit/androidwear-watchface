@@ -23,7 +23,7 @@ public class WearActivity extends Activity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_wear);
-        WatchViewStub stub;
+        /*WatchViewStub stub;
         stub = (WatchViewStub) findViewById(R.id.watch_view_stub);
         stub.setOnLayoutInflatedListener(new WatchViewStub.OnLayoutInflatedListener() {
             @Override
@@ -37,7 +37,7 @@ public class WearActivity extends Activity {
                 myTimerTask = new MyTimerTask();
                 timer.schedule(myTimerTask, 1000, 1000);
             }
-        });
+        });*/
     }
 
     class MyTimerTask extends TimerTask {

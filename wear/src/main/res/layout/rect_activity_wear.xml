@@ -15,7 +15,7 @@
         android:layout_centerVertical="true"
         android:layout_centerHorizontal="true"
         android:textAlignment="center"
-        android:textColor="@color/black"
+        android:textColor="@color/white"
         />
     
     <TextView
@@ -26,5 +26,5 @@
         android:id="@+id/textDate"
         android:layout_above="@+id/textTime"
         android:layout_centerHorizontal="true" 
-        android:textColor="@color/black"/>
+        android:textColor="@color/white"/>
 </RelativeLayout>
