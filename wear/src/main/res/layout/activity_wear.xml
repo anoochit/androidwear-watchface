@@ -10,6 +10,6 @@
     app:roundLayout="@layout/round_activity_wear"
     tools:context=".WearActivity"
     tools:deviceIds="wear"
-    android:background="@drawable/owl"
+    android:background="@color/white"
     >
 </android.support.wearable.view.WatchViewStub>
