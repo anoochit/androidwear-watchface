@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-
     <string name="app_name">Hello Watch Face</string>
+    <string name="instruction_string">Hello Watch Face should now be installed on your Android Wear device, Pair device with your watch then change the watch face from your watch.</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
-
+    <string name="action_share">Share..</string>
+    <string name="share_string">Get Hello Watch Face at https://play.google.com/store/apps/details?id=</string>
 </resources>
