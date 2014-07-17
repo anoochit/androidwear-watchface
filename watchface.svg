@@ -43,9 +43,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.25"
-     inkscape:cx="2068.6008"
-     inkscape:cy="603.51373"
+     inkscape:zoom="0.33457066"
+     inkscape:cx="1385.5496"
+     inkscape:cy="626.39343"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -53,7 +53,7 @@
      inkscape:window-height="782"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:window-maximized="0"
+     inkscape:window-maximized="1"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
@@ -108,7 +108,8 @@
            sodipodi:role="line">Hello Wear</tspan></text>
     </g>
     <g
-       id="g4225">
+       id="g4225"
+       transform="translate(-11.955621,5.9778105)">
       <rect
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
@@ -243,7 +244,7 @@
            sodipodi:role="line">12:00:00</tspan></text>
     </g>
     <g
-       transform="matrix(1.3609435,0,0,1.3609435,526.33876,-359.59107)"
+       transform="matrix(1.3609435,0,0,1.3609435,534.33876,-683.59107)"
        id="g4099-2"
        inkscape:export-filename="/Users/xavier/Desktop/ic_owl.png"
        inkscape:export-xdpi="90"
@@ -309,98 +310,171 @@
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;font-family:Arial;-inkscape-font-specification:Arial">12:00:00</tspan></text>
       </g>
     </g>
+    <rect
+       style="fill:#eeeeee;fill-opacity:1;stroke:none"
+       id="rect3035-8-3"
+       width="720"
+       height="1280"
+       x="1404.2335"
+       y="317.92767"
+       inkscape:export-filename="/Users/xavier/Project/HelloWear/mobile-preview2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#333333;fill-opacity:1;stroke:none"
+       id="rect3837-4"
+       width="291.71918"
+       height="1260.5905"
+       x="1618.3739"
+       y="327.63245"
+       ry="0" />
     <g
-       id="g4211"
-       transform="translate(-36,-8)">
+       transform="matrix(1.3953276,0,0,1.3953276,1204.2654,-372.32149)"
+       id="g4099-3">
+      <rect
+         transform="scale(1,-1)"
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/xavier/Project/HelloWear/wear/src/main/res/drawable-hdpi/ic_watchface.png"
+         y="-1141.4645"
+         x="213.21181"
+         height="376.20959"
+         width="376.20959"
+         id="rect3035-3-5-9"
+         style="fill:#666666;fill-opacity:1;stroke:none"
+         ry="188.1048" />
+      <g
+         transform="matrix(1.0559562,0,0,1.0559562,-9.3870941,28.346332)"
+         id="g3829-1">
+        <rect
+           ry="160"
+           style="fill:#5599ff;fill-opacity:1;stroke:none"
+           id="rect3035-3-2"
+           width="320"
+           height="320"
+           x="228.94009"
+           y="-1035.9961"
+           inkscape:export-filename="/Users/xavier/Project/HelloWear/wear/src/main/res/drawable-hdpi/ic_watchface.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90"
+           transform="scale(1,-1)" />
+        <text
+           xml:space="preserve"
+           style="font-size:28.54695702px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           x="320.38837"
+           y="956.2334"
+           id="text3037-9-0"
+           sodipodi:linespacing="125%"
+           inkscape:export-filename="/Users/xavier/Project/HelloWear/wear/src/main/res/drawable-hdpi/ic_watchface.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90"><tspan
+             sodipodi:role="line"
+             id="tspan3039-9-3"
+             x="320.38837"
+             y="956.2334"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Abject Failure;-inkscape-font-specification:Abject Failure">Hello Wear</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:36.58732986px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+           x="387.8414"
+           y="844.6286"
+           id="text3018-9"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan3020-2"
+             x="387.8414"
+             y="844.6286"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;font-family:Arial;-inkscape-font-specification:Arial">12 Jan 2014</tspan><tspan
+             sodipodi:role="line"
+             x="387.8414"
+             y="890.36279"
+             id="tspan3022-09"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;font-family:Arial;-inkscape-font-specification:Arial">12:00:00</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g3145"
+       inkscape:export-filename="/Users/xavier/Desktop/owl.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <rect
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
-         inkscape:export-filename="/Users/xavier/Project/HelloWear/mobile-preview2.png"
-         y="325.92767"
-         x="1440.2335"
-         height="1280"
-         width="720"
-         id="rect3035-8-3"
-         style="fill:#eeeeee;fill-opacity:1;stroke:none" />
-      <g
+         inkscape:export-filename="/Users/xavier/Desktop/owl.png"
+         ry="62.600224"
+         rx="62.76701"
+         y="990.92987"
+         x="817.61426"
+         height="510.6395"
+         width="512"
+         id="rect3081"
+         style="fill:#e6e6e6;fill-opacity:1;stroke:none" />
+      <rect
+         ry="0"
+         y="990.24963"
+         x="959.13818"
+         height="512"
+         width="228.95216"
+         id="rect3837-4-9"
+         style="fill:#999999;fill-opacity:1;stroke:none" />
+      <rect
+         transform="scale(1,-1)"
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
-         inkscape:export-filename="/Users/xavier/Project/HelloWear/mobile-preview2.png"
-         transform="translate(49.473245,-0.60055942)"
-         id="g4199">
-        <rect
-           style="fill:#333333;fill-opacity:1;stroke:none"
-           id="rect3837-4"
-           width="291.71918"
-           height="1260.5905"
-           x="1604.9006"
-           y="336.233"
-           ry="0" />
-        <g
-           transform="matrix(1.3953276,0,0,1.3953276,1190.7922,-363.72093)"
-           id="g4099-3">
-          <rect
-             transform="scale(1,-1)"
-             inkscape:export-ydpi="90"
-             inkscape:export-xdpi="90"
-             inkscape:export-filename="/Users/xavier/Project/HelloWear/wear/src/main/res/drawable-hdpi/ic_watchface.png"
-             y="-1141.4645"
-             x="213.21181"
-             height="376.20959"
-             width="376.20959"
-             id="rect3035-3-5-9"
-             style="fill:#666666;fill-opacity:1;stroke:none"
-             ry="188.1048" />
-          <g
-             transform="matrix(1.0559562,0,0,1.0559562,-9.3870941,28.346332)"
-             id="g3829-1">
-            <rect
-               ry="160"
-               style="fill:#5599ff;fill-opacity:1;stroke:none"
-               id="rect3035-3-2"
-               width="320"
-               height="320"
-               x="228.94009"
-               y="-1035.9961"
-               inkscape:export-filename="/Users/xavier/Project/HelloWear/wear/src/main/res/drawable-hdpi/ic_watchface.png"
-               inkscape:export-xdpi="90"
-               inkscape:export-ydpi="90"
-               transform="scale(1,-1)" />
-            <text
-               xml:space="preserve"
-               style="font-size:28.54695702px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-               x="320.38837"
-               y="956.2334"
-               id="text3037-9-0"
-               sodipodi:linespacing="125%"
-               inkscape:export-filename="/Users/xavier/Project/HelloWear/wear/src/main/res/drawable-hdpi/ic_watchface.png"
-               inkscape:export-xdpi="90"
-               inkscape:export-ydpi="90"><tspan
-                 sodipodi:role="line"
-                 id="tspan3039-9-3"
-                 x="320.38837"
-                 y="956.2334"
-                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Abject Failure;-inkscape-font-specification:Abject Failure">Hello Wear</tspan></text>
-            <text
-               xml:space="preserve"
-               style="font-size:36.58732986px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
-               x="387.8414"
-               y="844.6286"
-               id="text3018-9"
-               sodipodi:linespacing="125%"><tspan
-                 sodipodi:role="line"
-                 id="tspan3020-2"
-                 x="387.8414"
-                 y="844.6286"
-                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;font-family:Arial;-inkscape-font-specification:Arial">12 Jan 2014</tspan><tspan
-                 sodipodi:role="line"
-                 x="387.8414"
-                 y="890.36279"
-                 id="tspan3022-09"
-                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;font-family:Arial;-inkscape-font-specification:Arial">12:00:00</tspan></text>
-          </g>
-        </g>
-      </g>
+         inkscape:export-filename="/Users/xavier/Project/HelloWear/wear/src/main/res/drawable-hdpi/ic_watchface.png"
+         y="-1455.6915"
+         x="863.61426"
+         height="418.88397"
+         width="420"
+         id="rect3035-3-5-7-9"
+         style="fill:#666666;fill-opacity:1;stroke:none"
+         ry="209.44199" />
+      <rect
+         transform="scale(1,-1)"
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/xavier/Project/HelloWear/wear/src/main/res/drawable-hdpi/ic_watchface.png"
+         y="-1429.8959"
+         x="889.47864"
+         height="367.29257"
+         width="368.27118"
+         id="rect3035-3-1-8"
+         style="fill:#5599ff;fill-opacity:1;stroke:none"
+         ry="183.64629" />
+      <text
+         transform="scale(1.0013313,0.99867048)"
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/xavier/Project/HelloWear/wear/src/main/res/drawable-hdpi/ic_watchface.png"
+         sodipodi:linespacing="125%"
+         id="text3037-9-7-0"
+         y="1340.1268"
+         x="993.39917"
+         style="font-size:32.80951309px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Abject Failure;-inkscape-font-specification:Abject Failure"
+           y="1340.1268"
+           x="993.39917"
+           id="tspan3039-9-97-2"
+           sodipodi:role="line">Hello Wear</tspan></text>
+      <text
+         transform="scale(1.0013313,0.99867048)"
+         sodipodi:linespacing="125%"
+         id="text3018-6-4"
+         y="1211.8575"
+         x="1071.0165"
+         style="font-size:42.05045319px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;font-family:Arial;-inkscape-font-specification:Arial Bold"
+           y="1211.8575"
+           x="1071.0165"
+           id="tspan3020-1-8"
+           sodipodi:role="line">12 Jan 2014</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;font-family:Arial;-inkscape-font-specification:Arial Bold"
+           id="tspan3022-4-3"
+           y="1264.4207"
+           x="1071.0165"
+           sodipodi:role="line">12:00:00</tspan></text>
     </g>
   </g>
 </svg>
